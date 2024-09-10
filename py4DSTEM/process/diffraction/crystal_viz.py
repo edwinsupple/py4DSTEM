@@ -1641,7 +1641,7 @@ def plot_fiber_orientation_maps(
         dir_in_plane_degrees (float):       Reference in-plane angle (degrees).  Default is 0 / x-axis / vertical down.
         corr_range (np.ndarray):            Correlation intensity range for the plot
         corr_normalize (bool):              If true, set mean correlation to 1.
-        show_axes (bool):                   Flag setting whether orienation map axes are visible.
+        show_axes (bool):                   Flag setting whether orientation map axes are visible.
         figsize (array):                    2 elements defining figure size
         figbound (array):                   2 elements defining figure boundary
         returnfig (bool):                   set to True to return figure and axes handles

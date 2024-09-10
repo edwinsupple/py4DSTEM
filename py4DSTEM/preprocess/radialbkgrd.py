@@ -27,7 +27,7 @@ def get_1D_polar_background(
     Parameters
     ----------
     data : ndarray
-        the data for which to find the polar eliptical background,
+        the data for which to find the polar elliptical background,
         usually a diffraction pattern
     p_ellipse : 5-tuple
         the ellipse parameters (qx0,qy0,a,b,theta)
@@ -128,7 +128,7 @@ def get_2D_polar_background(data, background1D, r_bins, p_ellipse, center=None):
     Parameters
     ----------
     data : ndarray
-        the data for which to find the polar eliptical background,
+        the data for which to find the polar elliptical background,
         usually a diffraction pattern
     background1D : ndarray
         a vector representing the radial elliptical background

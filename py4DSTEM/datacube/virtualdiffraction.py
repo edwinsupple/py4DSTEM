@@ -313,7 +313,7 @@ class DataCubeVirtualDiffraction:
         Calculates the max diffraction pattern.
 
         Calls `DataCube.get_virtual_diffraction` - see that method's docstring
-        for more custimizable virtual diffraction.
+        for more customizable virtual diffraction.
 
         Parameters
         ----------
@@ -342,7 +342,7 @@ class DataCubeVirtualDiffraction:
         Calculates the mean diffraction pattern.
 
         Calls `DataCube.get_virtual_diffraction` - see that method's docstring
-        for more custimizable virtual diffraction.
+        for more customizable virtual diffraction.
 
         Parameters
         ----------
@@ -371,7 +371,7 @@ class DataCubeVirtualDiffraction:
         Calculates the max diffraction pattern.
 
         Calls `DataCube.get_virtual_diffraction` - see that method's docstring
-        for more custimizable virtual diffraction.
+        for more customizable virtual diffraction.
 
         Parameters
         ----------
